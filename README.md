@@ -1,4 +1,6 @@
 # Primer Repositorio
 ## 1. git init
 ## 2. git add .
-## 2. git git status
+## 3. git git status
+## 4. git log
+## 5. git push
