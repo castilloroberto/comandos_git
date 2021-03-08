@@ -6,4 +6,4 @@
 ## 5. git push
 
 ## 6. git clone
-
+## 7. git pull
